@@ -6,14 +6,14 @@ Fusion 360 has support for simulation with custom materials. This is an Autodesk
 
 The material data is from research using 3D-printed parts. Sources are listed in the library.
 
-## Materials in this library ⚙️
+## Materials in this library :electron:
 * Printed PLA Plastic
 * Printed PETG Plastic
 * Printed ABS Plastic
 * Printed Polycarbonate PC Plastic
 * Printed PolyMax PC Plastic
 
-## Usage
+## Usage ⚙️
 1. Download and extract this folder
 2. In Fusion360, go to `MODIFY` -> `Manage Materials` -> `Folder / Wrench Symbol (bottom left)` -> `Open Existing Library`
 3. Choose the file "FusionPrintingMaterials.adsklib"
