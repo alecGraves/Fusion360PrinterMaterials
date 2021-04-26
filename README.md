@@ -8,6 +8,8 @@ The material data is from research using 3D-printed parts. Sources are listed in
 
 ## Materials in this library :electron:
 * Printed PLA Plastic
+* Printed PolyLite PLA Plastic
+* Printed PolyTerra PLA Plastic
 * Printed PETG Plastic
 * Printed ABS Plastic
 * Printed Polycarbonate PC Plastic
