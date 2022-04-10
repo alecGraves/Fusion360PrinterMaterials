@@ -17,8 +17,13 @@ The material data is from research using 3D-printed parts. Sources are listed in
 
 ## Usage ⚙️
 1. Download and extract this folder
-2. In Fusion360, go to `MODIFY` -> `Manage Materials` -> `Folder / Wrench Symbol (bottom left)` -> `Open Existing Library`
-3. Choose the file "FusionPrintingMaterials.adsklib"
+2. In Fusion360, Click the UTILITIES Tab
+3. In the "UTILITY" section, click on the "Manage Materials" icon
+5. Click to expand the bottom-left icon of a folder with a wrench
+6. Pick the "Open Existing Library" option.
+7. Choose the file "FusionPrintingMaterials.adsklib"
+
+![image](https://user-images.githubusercontent.com/15484056/162636748-87984376-98ee-4505-89b1-b91be8a7613c.png)
 
 ## How to Help Out
 Some of the data sources used for 3D-printed materials were incomplete, and some parameters needed to be estimated. You can greatly help me and others by correcting mistakes in current material properties, finding better sources on 3D printed material properties, and sharing this project with peers. 
