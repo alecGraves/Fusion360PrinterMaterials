@@ -12,6 +12,7 @@ The material data is from research using 3D-printed parts. Sources are listed in
 * Printed PolyTerra PLA Plastic
 * Printed PETG Plastic
 * Printed ABS Plastic
+* Printed ASA Plastic
 * Printed Polycarbonate PC Plastic
 * Printed PolyMax PC Plastic
 
