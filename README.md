@@ -1,5 +1,5 @@
 # Fusion 360 Printer Materials
-3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, ASA, PC (Polycarbonate), PolyMax PC
+3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, ASA, PC (Polycarbonate), PolyMax PC, PolyMide PA12-CF Carbon Fiber Nylon
 
 ## Overview
 Fusion 360 has support for simulation with custom materials. This is an Autodesk / Fusion 360 material library with material properties filled out for several commonly used 3D printing materials. The material properties are specifically for 3D printed parts rather than molded or another manufacturing technique.
@@ -15,6 +15,7 @@ The material data is from research using 3D-printed parts. Sources are listed in
 * Printed ASA Plastic
 * Printed Polycarbonate PC Plastic
 * Printed PolyMax PC Plastic
+* Printed PolyMide PA12-CF Carbon Fiber Nylon
 
 ## Usage ⚙️
 1. Download and extract this folder
